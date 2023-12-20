@@ -6,14 +6,14 @@ Since the data I have is a pure time series, which means that with one variable 
 ## Instruction
 The project is written in Jupyter Notebook. Before you start, please make sure that you have installed Jupyter Notebook on your computer.
 
-'''
+```
 pip install jupyter
-'''
+```
 
 Then, open Jupyter Notebook with:
 
-'''
+```
 jupyter notebook
-'''
+```
 
 Now you can run it block by block.
